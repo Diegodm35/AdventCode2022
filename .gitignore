@@ -1,3 +1,7 @@
-*
-!Day*\Day*\Program.cs
-!Day*\Day*\input.txt
+# ignore all files
+*.vs
+*.sln
+Day*/Day*/**
+# except the following 
+!Day*/Day*/Program.cs
+!Day*/Day*/*.txt    
