@@ -1,1 +1,3 @@
-(Day0?\\Day0?\\input.txt)\w+
+*
+!Day*\Day*\src\*
+!Day*\Day*\input.txt
